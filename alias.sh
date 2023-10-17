@@ -16,5 +16,6 @@ alias alv='rm -rf'
 alias miip='curl https://ipapi.co/json'
 alias limpiaplis='sudo apt autoremove'
 alias df='df -h | grep -v snap'
+alias ls='ls -d .* --color=auto'
 
 
