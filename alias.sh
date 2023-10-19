@@ -17,5 +17,8 @@ alias miip='curl https://ipapi.co/json'
 alias limpiaplis='sudo apt autoremove'
 alias df='df -h | grep -v snap'
 alias ls='ls -d .* --color=auto'
+alias du1="du -d 1"
+# confirmacion
+alias mv='mv -i'  
 
 
