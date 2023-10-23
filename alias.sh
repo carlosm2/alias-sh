@@ -20,5 +20,6 @@ alias ls='ls -d .* --color=auto'
 alias du1="du -d 1"
 # confirmación
 alias mv='mv -i'  
+alias diff='colordiff'
 
 
