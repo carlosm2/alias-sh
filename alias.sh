@@ -21,5 +21,6 @@ alias du1="du -d 1"
 # confirmación
 alias mv='mv -i'  
 alias diff='colordiff'
+alias olakease='service --status-all'  
 
 
