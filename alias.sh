@@ -23,4 +23,5 @@ alias mv='mv -i'
 alias diff='colordiff'
 alias olakease='service --status-all'  
 alias bai='shutdown -r now'
+alias count='find . -type f | wc -l'
 
