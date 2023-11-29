@@ -25,5 +25,7 @@ alias olakease='service --status-all'
 alias bai='shutdown -r now'
 alias count='find . -type f | wc -l'
 alias pscpu='ps auxf | sort -nr -k 3 | head -10'
+# ls ultimo modificado
+alias lst='ls -t -1 
 
 
