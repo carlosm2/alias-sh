@@ -27,5 +27,6 @@ alias count='find . -type f | wc -l'
 alias pscpu='ps auxf | sort -nr -k 3 | head -10'
 # ls ultimo modificado
 alias lst='ls -t -1 
+alias lt='ls --human-readable --size -1 -S --classify'
 
 
