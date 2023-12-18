@@ -29,4 +29,6 @@ alias pscpu='ps auxf | sort -nr -k 3 | head -10'
 alias lst='ls -t -1 
 alias lt='ls --human-readable --size -1 -S --classify'
 
+#de git
+alias gs='git status'  
 
