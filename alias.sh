@@ -8,6 +8,7 @@ alias permisos='stat -c "Permiso %a | Creación %w | Modificación %y | %n" *'
 # expandir comandos
 
 alias mv='mv -v'
+alias c='clear'
 alias rm='rm -v'
 alias free='free -h'
 alias diff='diff --color'
