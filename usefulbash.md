@@ -2,3 +2,5 @@
 
 * apt-cache policy package -> to know version
 * curl ifconfig.me/ip -> my public ip
+* amass enum -d cacu.tech
+
