@@ -4,4 +4,5 @@
 * curl ifconfig.me/ip -> my public ip
 * amass enum -d cacu.tech
 * sudo iftop -i wlp4s0
+* rm -r * -> todo dentro de un directorio
 
