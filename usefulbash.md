@@ -5,4 +5,5 @@
 * amass enum -d cacu.tech
 * sudo iftop -i wlp4s0
 * rm -r * -> todo dentro de un directorio
-
+* nslookup cacu.tech
+* dig mail.mayfirst.org TXT
