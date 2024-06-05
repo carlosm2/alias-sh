@@ -7,3 +7,4 @@
 * rm -r * -> todo dentro de un directorio
 * nslookup cacu.tech
 * dig mail.mayfirst.org TXT
+* nslookup --type=CNAME site.org
