@@ -8,3 +8,4 @@
 * nslookup cacu.tech
 * dig mail.mayfirst.org TXT
 * nslookup --type=CNAME site.org
+* crontab -r -> reset crontab to default
