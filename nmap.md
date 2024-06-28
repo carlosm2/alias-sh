@@ -17,3 +17,6 @@
 * Scan Top popular ports
 
   `nmap --top-ports 20 192.168.1.106`
+
+* Scan from a list
+  nmap -iL list.txt
