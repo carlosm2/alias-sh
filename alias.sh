@@ -14,8 +14,10 @@ alias free='free -h'
 alias diff='diff --color'
 
 alias alv='rm -rf'
+#mi ip publica
 alias miip='curl https://ipapi.co/json'
 alias limpiaplis='sudo apt autoremove'
+# para no mostrar snaps (ubuntu)
 alias df='df -h | grep -v snap'
 alias ls='ls -d .* --color=auto'
 alias du1="du -d 1"
@@ -24,6 +26,7 @@ alias mv='mv -i'
 alias diff='colordiff'
 alias olakease='service --status-all'  
 alias bai='shutdown -r now'
+## cuenta todos los archivos
 alias count='find . -type f | wc -l'
 alias pscpu='ps auxf | sort -nr -k 3 | head -10'
 # ls ultimo modificado
